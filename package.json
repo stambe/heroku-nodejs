@@ -1,0 +1,26 @@
+{
+  "name": "heroku-nodejs",
+  "version": "0.0.0",
+  "description": "This is test node deployment project",
+  "main": " web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stambe/heroku-nodejs.git"
+  },
+  "author": "Sagar Tambe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stambe/heroku-nodejs/issues"
+  },
+  "homepage": "https://github.com/stambe/heroku-nodejs",
+  "dependencies": {
+    "express": "^4.7.2",
+    "logfmt": "^1.1.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
